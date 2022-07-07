@@ -1,0 +1,20 @@
+# ninja log v5
+1	187	6750316190859348	build.ninja	991ace450fe093d8
+43	468	6750306672409317	CMakeFiles/Project.dir/RepositoryFile.cpp.obj	859bb2f6aec9ac0
+14	524	6749455530597891	CMakeFiles/Project.dir/SimplyLinkedList.cpp.obj	8db869d29dd1331
+6	610	6750306673835505	CMakeFiles/Project.dir/Event.cpp.obj	3336d934514587ac
+3	843	6750306676169265	CMakeFiles/Project.dir/main.cpp.obj	bd0862ff1aea8ab0
+926	1114	6750306678842114	Project.exe	b740fc5113287b4a
+76	332	6745727510525581	CMakeFiles/Project.dir/Login.cpp.obj	dd61d2de12ff50a1
+54	905	6750306676787610	CMakeFiles/Project.dir/Service.cpp.obj	b3044740816c1595
+9	651	6750306674254386	CMakeFiles/Project.dir/MultiMap.cpp.obj	fff7a5c79349a0eb
+30	564	6750306673376733	CMakeFiles/Project.dir/Message.cpp.obj	17dfbaf1c45a93c1
+19	401	6750306671731129	CMakeFiles/Project.dir/Repository.cpp.obj	610c4889d388b95c
+3	370	6748733966868295	CMakeFiles/Project.dir/User.cpp.obj	dd7b12d1965eb667
+41	926	6750306676997060	CMakeFiles/Project.dir/UserInterface.cpp.obj	603ca8d53702bf7a
+71	786	6750306675600786	CMakeFiles/Project.dir/MessageRepository.cpp.obj	f0f212ffcf54bf43
+6	176	6745777597699326	CMakeFiles/Project.dir/RepositoryFileCSV.cpp.obj	b08c4e3f10ef863d
+3	315	6745798464062357	CMakeFiles/Project.dir/Friend.cpp.obj	9a192c6b6b6a5453
+13	538	6745779963104172	CMakeFiles/Project.dir/Utils.cpp.obj	112a927c77d0c45f
+57	838	6750306676129371	CMakeFiles/Project.dir/RepoFriend.cpp.obj	72250595057961a4
+84	810	6750306675840143	CMakeFiles/Project.dir/EventRepository.cpp.obj	32fae2fd640bdda3
